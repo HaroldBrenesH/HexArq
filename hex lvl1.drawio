@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="MiSyIvNfqnsG0VhTnkNN" name="Page-1">
+        <mxGraphModel dx="1521" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" width="520" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=80;rotation=-180;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="58.75" width="427.5" height="373.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;rotation=-180;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="130.01" y="101.25" width="301.87" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="196.25" y="173.75" width="155" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Dominio de Aplicacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="215.94" y="122.5" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Infraestructura de Dominio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="193.75" y="72.5" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Modelo de Dominio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="193.75" y="241.25" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Arquitectura Hexagonal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="12.5" width="130" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

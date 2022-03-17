@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="gp8eC-KrmGW-N3wm6vaH" name="Page-1">
+        <mxGraphModel dx="1466" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry width="745" height="812" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="6" y="120" width="730" height="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="76" y="180" width="590" height="557.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="161" y="255" width="420" height="395" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="221" y="323.75" width="300" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Server.Base" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="326" y="407.5" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Server.Base.Framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="321" y="350" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Server.Base.Framework.DISS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="311" y="280" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Server.Base.Framework.DISS.Front" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="301" y="200" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Server.Base.Framework.DISS.Front.SINPE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="311" y="140" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;h1&gt;Arquitectura Hexagonal&lt;/h1&gt;&lt;p&gt;Esta basado en el concepto de capas por aplicacion apiladas.&lt;br&gt;Cada capa es de responsabilidad unica y&amp;nbsp;funcionan como wrapper de la anterior&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="31" y="10" width="550" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
